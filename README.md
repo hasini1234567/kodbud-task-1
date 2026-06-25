@@ -172,3 +172,9 @@ References
 * Matplotlib Documentation
 * Seaborn Documentation
 * World Health Organization (WHO) Reports
+<img width="1908" height="996" alt="image" src="https://github.com/user-attachments/assets/4bb77db9-5a50-4890-888c-6c1c74bef72f" />
+<img width="1918" height="1047" alt="image" src="https://github.com/user-attachments/assets/73df1110-44a6-4c87-9397-df28bed00dd1" />
+<img width="1901" height="1052" alt="image" src="https://github.com/user-attachments/assets/e4fe3eca-443e-4e16-9bb4-a2c0e535a126" />
+<img width="1912" height="1051" alt="image" src="https://github.com/user-attachments/assets/fc1b5232-4105-4faf-b049-f7487476f64d" />
+<img width="1867" height="1012" alt="image" src="https://github.com/user-attachments/assets/d0dd9523-b202-4e1b-b1e8-bb8e4f7ea552" />
+<img width="1533" height="971" alt="image" src="https://github.com/user-attachments/assets/475884d3-ef0b-43d4-bab7-a2e0dfdac9e5" />
